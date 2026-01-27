@@ -95,7 +95,7 @@ Hi, I'm Syed Shahmeer Ali, a passionate pursuing my Bachelor's degree in Compute
 
 ## Contact Information
 
-- **Email:** syedshahmeerali196@gmail.com
+- **Email:** ashahmeer73@gmail.com
 - **Phone:** +92 332 2743174
 - **LinkedIn:** [syed-shahmeer-ali-61a836288](https://www.linkedin.com/in/syed-shahmeer-ali-61a836288/)
 - **GitHub:** [SyedShahmeerAli12](https://github.com/SyedShahmeerAli12)
