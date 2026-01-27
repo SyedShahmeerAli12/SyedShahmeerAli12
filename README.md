@@ -4,9 +4,11 @@
 
 Building end-to-end AI products, not just models.
 
-**LinkedIn:** [syed-shahmeer-ali-61a836288](https://www.linkedin.com/in/syed-shahmeer-ali-61a836288/)  
-**GitHub:** [syedshahmeerali](https://github.com/syedshahmeerali)  
-**Portfolio:** [syedshahmeerali12.github.io/portfolio](https://syedshahmeerali12.github.io/portfolio/)
+- **LinkedIn:** [syed-shahmeer-ali-61a836288](https://www.linkedin.com/in/syed-shahmeer-ali-61a836288/)
+- **GitHub:** [syedshahmeerali](https://github.com/syedshahmeerali)
+- **Portfolio:** [syedshahmeerali12.github.io/portfolio](https://syedshahmeerali12.github.io/portfolio/)
+- **Email:** ashahmeer73@gmail.com
+
 
 ---
 
